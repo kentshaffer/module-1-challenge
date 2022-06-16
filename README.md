@@ -11,6 +11,7 @@ This assignment was used to gain experience and practice refactoring, cleaning u
 * Bug fixed so that page jumped to 'search engine optimization' section when nav bar link in the header is clicked.
 * Semantic elements added to the HTML source code.
 * CSS elements consolidated and combined where possible to make the style sheet more readable and concise. 
+* Comments added to CSS style page to make navigation and future edits easier.
 
 ## Deployed application: (https://kentshaffer.github.io/module-1-challenge/)
 
