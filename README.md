@@ -14,6 +14,8 @@ This assignment was used to gain experience and practice refactoring, cleaning u
 
 ## Deployed application: (https://kentshaffer.github.io/module-1-challenge/)
 
-assets/images/module-1-challenge deployed application 1.png
-assets/images/module-1-challenge deployed application 2.png
-assets/images/module-1-challenge deployed application 3.png
+![image screenshot of navigation bar and header image of deployed application] (assets/images/module-1-challenge deployed application 1.png "image of header")
+
+![image screenshot of image cards with text and side bar icons and descriptions] (assets/images/module-1-challenge deployed application 2.png "image of body")
+
+![image screenshot of footer] (assets/images/module-1-challenge deployed application 3.png "image of footer")
